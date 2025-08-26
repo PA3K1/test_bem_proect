@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #333; 
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.header__section {
+    display: flex ;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.header__section--right {
+    padding: 0px 15px;
+    gap: 20px; 
+}
+
+.header__text {
+    padding: 0px 15px;
+    font-size: 17px;
+    color: black;
+}
+
+.header__picture {
+    background-color: #F3FBF8;
+    border-radius: 50%;
+    padding: 7px;
+}
+
+.back__text {
+    background-color: #09A66D;
+    padding: 6px 16px 6px 16px;
+    border-radius: 8px;
+    color: #fff;
+}
+
+a {
+    text-decoration: none;
+}
