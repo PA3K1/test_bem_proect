@@ -63,8 +63,9 @@
 }
 
 .main__mini__picture__2 {
-    position: absolute;
-    right: 1430px;
-    top: 110%;
-    transform: translateY(-50%);
+    position: relative;
+    right: auto;
+    top: auto;
+    transform: none;
+    padding-left: 300px;
 }

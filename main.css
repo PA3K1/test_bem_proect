@@ -19,7 +19,7 @@
 }
 
 .main--title--text--center {
-        text-align: center;
+    text-align: center;
 }
 
 .main__arrow__png{
@@ -33,7 +33,6 @@
     display: flex;
     background-color: #F3FBF8;
     position: relative;
-    min-height: 500px;
 }
 
 .main__big__picture {
