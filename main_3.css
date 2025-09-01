@@ -1,0 +1,28 @@
+
+.main--section-3-green {
+    background-color: #09A66D0D;
+}
+
+.main-items__container__3 {
+    display: flex;
+    align-items: center;
+    gap: 60px;
+    padding: 80px 20px 10px 20px;
+}
+
+.main-items__image__3 {
+    padding: 0 0 150px  250px;
+}
+
+.main-right__section__3 {
+    display: flex;
+    gap: 20px;
+}
+
+.main-items__title__3 {
+    font-size: 70px;
+    color: #222222;
+}
+
+
+

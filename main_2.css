@@ -1,3 +1,8 @@
+.main--section-2-white {
+    padding-bottom: 150px;
+}
+
+
 .main__title__text__2 {
     font-size: 70px;
     color: #222222;
@@ -46,7 +51,7 @@
 }
 
 .main__section__text__2 {
-    font-size: 16px;
+    font-size: 18px;
     color: #555555;
     line-height: 1.5;
 }
