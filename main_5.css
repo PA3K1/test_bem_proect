@@ -1,0 +1,17 @@
+
+.main--section-5-white {
+    padding-top: 100px;
+}
+
+
+
+.main-items__container__5 {
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-mini__section__5 {
+    padding-left: 100px;
+}
